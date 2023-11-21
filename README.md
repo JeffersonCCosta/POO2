@@ -1,5 +1,5 @@
 # POO2
-Matéria Programação Orientada a Objetos 2
+Repositório dedicado a guardar códigos e trabalhos da matéria de Programação Orientada a Objetos 2
 
 
 ## Trabalho Final
